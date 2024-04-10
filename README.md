@@ -55,6 +55,20 @@
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
 </div>
 
+<br>
+<br>
+<h2 align="left"> :spider_web: Handles :: </h2>
+<br>
+
+<div id="badges">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=red" alt="Joy Badge"/>
+  <img src="https://img.shields.io/badge/Stackoverflow-red?style=for-the-badge&logo=stackoverflow&logoColor=red" alt="Joy Badge"/>
+  <img src="https://img.shields.io/badge/Germ-red?style=for-the-badge&logo=stackoverflow&logoColor=red" alt="Joy Badge"/>
+</div>
+
+
 <br> <br>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shad-Alam&theme=dark&background=000000)](https://github.com/Shad-Alam)
