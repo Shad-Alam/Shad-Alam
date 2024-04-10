@@ -48,7 +48,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/ShadAlamJoy-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shad-alam-joy)
 [![GithubSummary](https://img.shields.io/badge/ShadAlamJoy-171515?style=for-the-badge&logo=github&logoColor=white)](https://profile-summary-for-github.com/user/Shad-Alam)
-[![Stopstalks](https://img.shields.io/badge/Butterfly-orange?style=for-the-badge&logo=SVG&logoColor=white)](https://www.stopstalk.com/user/profile/BUTTERFLY)
+[![Stopstalks](https://img.shields.io/badge/Butterfly-purple?style=for-the-badge&logo=SVG&logoColor=white)](https://www.stopstalk.com/user/profile/BUTTERFLY)
 
 <br>
 
