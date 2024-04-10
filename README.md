@@ -45,13 +45,13 @@
 <br>
 <h2 align="left"> :spider_web: Handles :: </h2>
 <br>
-<div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=red" alt="Joy Badge"/>
-  <img src="https://img.shields.io/badge/Stackoverflow-red?style=for-the-badge&logo=stackoverflow&logoColor=red" alt="Joy Badge"/>
-  <img src="https://img.shields.io/badge/Germ-red?style=for-the-badge&logo=stackoverflow&logoColor=red" alt="Joy Badge"/>
-</div>
+
+[![LinkedIn](https://img.shields.io/badge/ShadAlamJoy-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shad-alam-joy)
+[![GithubSummary](https://img.shields.io/badge/ShadAlamJoy-171515?style=for-the-badge&logo=github&logoColor=white)](https://profile-summary-for-github.com/user/Shad-Alam)
+[![Stopstalks](https://img.shields.io/badge/Butterfly-orange?style=for-the-badge&logo=SVG&logoColor=white)](https://www.stopstalk.com/user/profile/BUTTERFLY)
+
+<br>
+
 <br> <br>
 
 **📫 How to reach me:** shad.19bd@gmail.com
