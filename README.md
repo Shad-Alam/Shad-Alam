@@ -49,8 +49,8 @@
 [![LinkedIn](https://img.shields.io/badge/ShadAlamJoy-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shad-alam-joy)
 [![Stopstalks](https://img.shields.io/badge/Butterfly-purple?style=for-the-badge&logo=svg&logoColor=white)](https://www.stopstalk.com/user/profile/BUTTERFLY)
 [![GithubSummary](https://img.shields.io/badge/ShadAlamJoy-171515?style=for-the-badge&logo=github&logoColor=white)](https://profile-summary-for-github.com/user/Shad-Alam)
-[![Stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15596427/shad-alam-joy)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCrVHwkJ05cyngs8KhX87CoQ)
+[![Stackoverflow](https://img.shields.io/badge/shadalamjoy-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15596427/shad-alam-joy)
+[![Youtube](https://img.shields.io/badge/shadalamjoy-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCrVHwkJ05cyngs8KhX87CoQ)
 <br> <br>
 
 **📫 How to reach me:** shad.19bd@gmail.com
