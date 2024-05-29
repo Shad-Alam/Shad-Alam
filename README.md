@@ -44,6 +44,8 @@
 <h2 align="left"> :spider_web: Handles :: </h2>
 <br>
 
+-->
+
 [![LinkedIn](https://img.shields.io/badge/ShadAlamJoy-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shad-alam-joy)
 [![Stopstalks](https://img.shields.io/badge/Butterfly-purple?style=for-the-badge&logo=svg&logoColor=white)](https://www.stopstalk.com/user/profile/BUTTERFLY)
 [![GithubSummary](https://img.shields.io/badge/ShadAlamJoy-171515?style=for-the-badge&logo=github&logoColor=white)](https://profile-summary-for-github.com/user/Shad-Alam)
@@ -58,7 +60,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shad-Alam&theme=dark&background=000000)](https://github.com/Shad-Alam)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shad-Alam&layout=compact&theme=vision-friendly-dark)](https://github.com/Shad-Alam)
--->
+
 <!--
 
 <br>
