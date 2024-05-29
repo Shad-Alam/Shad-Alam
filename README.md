@@ -1,3 +1,4 @@
+<!--
 <h2 align="left">🛠 In Queue :: </h2>
 <br>
 <div align="left">
@@ -39,7 +40,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
 </div>
-
 <br>
 <h2 align="left"> :spider_web: Handles :: </h2>
 <br>
@@ -53,11 +53,12 @@
 
 **📫 How to reach me:** shad.19bd@gmail.com
 
+
 <br>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shad-Alam&theme=dark&background=000000)](https://github.com/Shad-Alam)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shad-Alam&layout=compact&theme=vision-friendly-dark)](https://github.com/Shad-Alam)
-
+-->
 <!--
 
 <br>
