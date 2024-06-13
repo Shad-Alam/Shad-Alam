@@ -1,4 +1,3 @@
-<!--
 <h2 align="left">🛠 In Queue :: </h2>
 <br>
 <div align="left">
@@ -43,8 +42,6 @@
 <br>
 <h2 align="left"> :spider_web: Handles :: </h2>
 <br>
-
--->
 
 [![LinkedIn](https://img.shields.io/badge/ShadAlamJoy-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shad-alam-joy)
 [![Stopstalks](https://img.shields.io/badge/Butterfly-purple?style=for-the-badge&logo=svg&logoColor=white)](https://www.stopstalk.com/user/profile/BUTTERFLY)
